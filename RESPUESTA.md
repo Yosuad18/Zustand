@@ -14,3 +14,7 @@ SOLUCION
 4. Porque detecta de mejor manera los cambis exixtentes en el map y filter para saber que hay un nuevo espacio en memoria, actualizando la patalla y dejando un estado inmutable que cambia mediante acciones claras para que sea mas sencillo identificar el bug
 5. Zustand es una creacion de codigo abierto, lo que significa que diferentes desarolladores independientes colaboran para desarrollar esta libreria, necesitando descargas dependencias mediante npm y por lo tanto, utilizando el ecosistema de react sin ser un paquete oficial
 Mientras de react si es una libreria oficial de meta que utiliza en entorno por defecto de descarga y no necesita comandos para instalarse, siendo el mismo ecosistema react del que dependen alguna librerias
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
